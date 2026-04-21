@@ -32,7 +32,7 @@
     },
     {
       "label": "Honorific Gladiators #1",
-      "short_label": "HG1",
+      "short_label": "#1",
       "initials": {
         "start": 3345,
         "encoding": "ch",
@@ -46,7 +46,7 @@
     },
     {
       "label": "Honorific Gladiators #2",
-      "short_label": "HG2",
+      "short_label": "#2",
       "initials": {
         "start": 3350,
         "encoding": "ch",
@@ -60,7 +60,7 @@
     },
     {
       "label": "Honorific Gladiators #3",
-      "short_label": "HG3",
+      "short_label": "#3",
       "initials": {
         "start": 3355,
         "encoding": "ch",
@@ -74,7 +74,7 @@
     },
     {
       "label": "Honorific Gladiators #4",
-      "short_label": "HG4",
+      "short_label": "#4",
       "initials": {
         "start": 3360,
         "encoding": "ch",

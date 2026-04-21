@@ -19,7 +19,7 @@
   "high_scores": [
     {
       "label": "First Place",
-      "short_label": "1st",
+      "short_label": "#1",
       "initials": {
         "start": 1374,
         "encoding": "ch",
@@ -33,7 +33,7 @@
     },
     {
       "label": "Second Place",
-      "short_label": "2nd",
+      "short_label": "#2",
       "initials": {
         "start": 1385,
         "encoding": "ch",
@@ -47,7 +47,7 @@
     },
     {
       "label": "Third Place",
-      "short_label": "3rd",
+      "short_label": "#3",
       "initials": {
         "start": 1396,
         "encoding": "ch",
@@ -61,7 +61,7 @@
     },
     {
       "label": "Fourth Place",
-      "short_label": "4th",
+      "short_label": "#4",
       "initials": {
         "start": 1407,
         "encoding": "ch",
@@ -75,7 +75,7 @@
     },
     {
       "label": "Fifth Place",
-      "short_label": "5th",
+      "short_label": "#5",
       "initials": {
         "start": 1418,
         "encoding": "ch",
