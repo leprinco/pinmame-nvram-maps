@@ -171,8 +171,7 @@
       "score": {
         "start": "0x02CF",
         "encoding": "bcd",
-        "length": 6,
-        "scale": 10
+        "length": 6
       }
     }
   ],
